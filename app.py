@@ -108,8 +108,8 @@ def main():
 	else:
 		st.subheader("About")
 		st.info("Built with Streamlit")
-		st.info("Ramakant Saves @nsti_Dehradun")
-		st.text("Ramakant")
+		st.info("Ramakant@nsti_Dehradun")
+		
 
 
 
